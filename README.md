@@ -21,6 +21,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - <a href="https://nodejs.org/en/">Node JS</a>
 
 ## 🔖 execução
+- com o projeto já em seu editor (caso vs code), dar um yarn init.
+- yarn add express
+- após isso já terá todos os modulos. usando o yarn start: Prontinho, tudo rodando. 
 
 
 
