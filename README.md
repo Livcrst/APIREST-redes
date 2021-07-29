@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Instalações
 
-- <a href="www.progrmaria.org">teste da tag a</a>
+- <a href="https://nodejs.org/en/">Node JS</a>
 
 ## 🔖 execução
 
