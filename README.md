@@ -22,9 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - npm install ou npm i 
 
 ## 🔖 execução
-- com o projeto já em seu editor (caso vs code), dar um yarn init.
-- yarn add express
-- após isso já terá todos os modulos. usando o yarn start: Prontinho, tudo rodando. 
+- com o projeto já em seu editor (caso vs code), dar um yarn start e GG! Prontinho. 
 
 
 
