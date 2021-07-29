@@ -19,6 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Instalações
 
 - <a href="https://nodejs.org/en/">Node JS</a>
+- npm install ou npm i 
 
 ## 🔖 execução
 - com o projeto já em seu editor (caso vs code), dar um yarn init.
